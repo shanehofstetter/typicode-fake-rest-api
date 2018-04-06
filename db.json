@@ -2,7 +2,7 @@
   "users": [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "name": "leanne graham",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "address": {
@@ -25,7 +25,7 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
+    "name": "ervin howell",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "address": {
@@ -48,7 +48,7 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
+    "name": "clementine bauch",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "address": {
@@ -71,7 +71,7 @@
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
+    "name": "patricia lebsack",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "address": {
@@ -228,6 +228,29 @@
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
+    }
+  },
+  {
+    "id": 11,
+    "name": "hofstetter",
+    "username": "hos",
+    "email": "rwertwert@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
     }
   }
 ]
